@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sturdy-tine-451308-q2",
+  "private_key_id": "7c1cee6f2541d7abe2b4cffc3c3b93b8b1ddbb8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZJ+IOJrmSjmCO\nPW5Nm+4GOIl7J8zSQ01Nc8owVqigDRyWU03kw0M4d0VmTuQYJkNc77xH7ugLlOEv\nBeQaRPjAbEh8cthcXG5VmEk1B/bGYLUf8JB6TNVlxsOJ8ODvcBIt6c65TM7uoDc2\nCFkjTKeXdL0tvbVLr3RD9kaAaYnnpQDmFWsxD/mD7c38cy6LRUh2JnY7v8Ku8Rkk\nIhV9Xlq0VlmLHwwsNzT54vpo21S5y1WBieyCQVkp4236gptVvW2NZ+d49o9MNmdP\n6jOgAAW3YLuVWfAp5EckALr8iszpkJ+sjMM0rhBcEYaIqQOxnoL0TrXBMAv+Pwmj\nRlf4Vq2lAgMBAAECggEAF7IhxAg3E7ue5FE7v2hBJENNwoyTQxZo/Fyi4XzIpb5d\n3OF2NyeU0Y03m3RcW25BcjC5djf8RiyWwzonVokpg7B32xdFGL7/+IMc6evWjSBx\nuJctjMrkNljmxB9EIZyJv0zWFqOU/mD+j/zVN+Qzcsl1ozoiQFdYSS+PKJAGUP/I\nN3S3+JgTkSP55jEdMshnD/OrBImLumeBbt9fhWvMbTj1Te9hbzC/3zkIb/vwuqdx\nHtIA2zTjL78QPm6Jk4pwjjxeC4oF1DW7dKng8Lps4LVOLybZw4g16Y3tPQor8K1O\nWmjFQu/tZDrDj5nFVhjt6BSvhDZb1T/nfpzGyvB1OQKBgQDx2m+hZb8vp1zx2VBG\nPz6qyI7b+woLIaryzitAejUo+085RIG72R7TYU5njq/+e77Cfe+cClTNejfPAjmL\naus69VQ19Ng8qBbWSy7XGDR6O3RSePOPntwE/iG9gJviA/sRB3lyZI++PO2sGuJ9\nFlwU4FRRyeqAWcpreCxjshdgawKBgQDl258gZqzUgnGtyQ6xE7f8eynD0XqLzx8E\nVqa6HKY0Ygm7fFucsjDUJim34NBo1fe5bWdl4TnCPijRMy4eR/1ReZ2x2oHi66+z\nAw+w0uWq03QrqoC9Mn51NB/Nk4h0L4uFWQBUtqLChS5ouQu5g+j1vQRC21qj+ZFN\nAkI2P1puLwKBgQDtSc+0nstRyfcbIofsJCksDtJ7anaULVg4Gae9/ykhKFC2c0yG\nLaRc6F+wowJxwJ+M21q30jsZzwvqgthKvYBFvGX++lceTBz764/tYcY7FxItyJXP\nF6HvFBeugfxvaFBwiNDTN28Ay261KTuGVuXJZb/U7zKw82fywVlsB1OAOQKBgD3G\nKVze20H9kKmg6EbkwsSjIRVUXffnATH8S7Cm9HANjQoLIN/a786ENyAI1lnmbz4x\nTeGOhyRR6kxW0eUnecgExEHBNLkUmFKm1vexpjGjxIvbtd+jC2NaT9XC+aAoCvoa\nckFSGCno+xD/8ku4TMqGMvf41cJN1yP4IG1N13LXAoGAYcIy3tL+UAsZzAtgYpra\n7DyMCqNtk9oufqhSdHxJn32Au0jrcKjNz6Y3fuEt9swtqKk9G4Lb20LQlxliRMZ5\nMl7hLVkPpPw3NF9n0uI+R4pJxZJDr2s9VEZsuudH1nXPslIF9C1R8R3017z3cY6l\nZMpfp+qbmgssjK6okyhe6Gk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "passport@sturdy-tine-451308-q2.iam.gserviceaccount.com",
+  "client_id": "103651865365977731169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/passport%40sturdy-tine-451308-q2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
